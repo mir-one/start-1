@@ -108,3 +108,5 @@
 
 ## Дополнительные файлы
 <a name="9"><h3>Дополнительные файлы</h3></a>
+
+[PDF](https://github.com/mir-one/docs/tree/master/pdf)
